@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cracked679" alt="cracked679" /></a> </p>
  -->
-- 👨‍💻 All of my projects are available at [crackedfordev.com](crackedfordev.com)
+- 👨‍💻 All of my projects are available at [https://crackedfordev.com](crackedfordev.com)
 
 - 📫 How to reach me **shyambodkedev@gmail.com**
 
