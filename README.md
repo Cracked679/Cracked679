@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shyambodkedev@gmail.com**
 
-- 📄 Know about my experiences [crackedforev.com/resume](crackedforev.com/resume)
+- 📄 My Resume [<a href="https://crackedfordev.com/resume" >crackedfordev.com/resume</a>]
 
 - ⚡ Fun fact **I'm a huge fan of Harry Potter**
 
